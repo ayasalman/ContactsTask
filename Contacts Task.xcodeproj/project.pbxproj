@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		128CE3632E26F2BC00C1A9B3 /* Exceptions for "Contacts Task" folder in "Contacts Task" target */ = {
+		12D318182E280D94001E463B /* Exceptions for "Contacts Task" folder in "Contacts Task" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		128CE3532E26F2B800C1A9B3 /* Contacts Task */ = {
+		12D318092E27F404001E463B /* Contacts Task */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				128CE3632E26F2BC00C1A9B3 /* Exceptions for "Contacts Task" folder in "Contacts Task" target */,
+				12D318182E280D94001E463B /* Exceptions for "Contacts Task" folder in "Contacts Task" target */,
 			);
 			path = "Contacts Task";
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		128CE3482E26F2B700C1A9B3 = {
 			isa = PBXGroup;
 			children = (
-				128CE3532E26F2B800C1A9B3 /* Contacts Task */,
+				12D318092E27F404001E463B /* Contacts Task */,
 				128CE3522E26F2B800C1A9B3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				128CE3532E26F2B800C1A9B3 /* Contacts Task */,
+				12D318092E27F404001E463B /* Contacts Task */,
 			);
 			name = "Contacts Task";
 			packageProductDependencies = (
